@@ -43,7 +43,7 @@ Voici un aperçu du tableau de bord final :
 <img width="511" alt="tableau_de_bord2" src="https://github.com/user-attachments/assets/f817ba8a-044b-4302-879e-4aacf5f38f3a" />
 
 
-Et les visualisations filtrées selon le statut marital :
+#### Et les visualisations filtrées selon le statut marital :
 
 <img width="509" alt="tableau_de_bord2_M" src="https://github.com/user-attachments/assets/60f12eee-ec30-461a-b36c-62bb248348c0" />
 

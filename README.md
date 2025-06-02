@@ -4,8 +4,6 @@ Dans le cadre de ce projet, nous avons conçu un tableau de bord interactif déd
 
 Ce tableau de bord permet de visualiser et d’explorer différentes dimensions clés telles que la satisfaction au travail, la performance de la structure, la répartition des rôles professionnels, le genre, la situation maritale, et bien d’autres indicateurs pertinents.
 
-Ce projet constitue une démonstration concrète de l’utilisation de Power BI pour valoriser des données RH, automatiser les rapports et appuyer des décisions basées sur les données.
-
 Les principales étapes de ce projet sont :
 
 - L’importation des données
@@ -54,3 +52,5 @@ Voici un aperçu du tableau de bord final :
 <img width="511" alt="tableau_de_bord2_D" src="https://github.com/user-attachments/assets/ab9aa2d0-dc12-4ff2-914c-59baf1b19e05" />
 
 <img width="511" alt="tableau_de_bord2_S" src="https://github.com/user-attachments/assets/1ece10c1-c145-4a5c-83c9-bf224b024f44" />
+
+Ce projet constitue une démonstration concrète de l’utilisation de Power BI pour valoriser des données RH, automatiser les rapports et appuyer des décisions basées sur les données.

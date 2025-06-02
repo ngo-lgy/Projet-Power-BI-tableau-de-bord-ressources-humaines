@@ -1,6 +1,10 @@
 # Projet Power BI : Développement d'un tableau de bord d'analyse des ressources humaines
 
-Dans ce projet, nous avons conçu un tableau de bord interactif dédié à la visualisation des données liées aux ressources humaines.
+Dans le cadre de ce projet, nous avons conçu un tableau de bord interactif dédié à l’analyse des ressources humaines. L’objectif principal est de fournir une vision claire, structurée et dynamique des données RH, afin d’aider à la prise de décision stratégique en entreprise.
+
+Ce tableau de bord permet de visualiser et d’explorer différentes dimensions clés telles que la satisfaction au travail, la performance de la structure, la répartition des rôles professionnels, le genre, la situation maritale, et bien d’autres indicateurs pertinents.
+
+Ce projet constitue une démonstration concrète de l’utilisation de Power BI pour valoriser des données RH, automatiser les rapports et appuyer des décisions basées sur les données.
 
 Les principales étapes de ce projet sont :
 
